@@ -43,3 +43,6 @@ lib/examples.ml
 
 # Debug logs
 logs.txt
+
+.direnv
+.envrc
